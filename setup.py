@@ -21,7 +21,7 @@ setup(
     author='Rajasekhar Thiruthuvaraj',
     author_email='trsekhar.123@gmail.com',
     url='https://github.com/trsekhar123/EmailBodyRetriever',
-    license='Creative Commons Attribution-Noncommercial-Share Alike license',
+    license='MIT',
     long_description=open('README.md').read(),
 )
 
