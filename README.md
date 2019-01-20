@@ -6,14 +6,14 @@ What Email Body Retriever does is that it captures the body of the last email to
 for example, the following is the forwarded message from some consultants:
 ```
 ---------- Forwarded message ---------
-From: CANADA-Be Best! <canada.bebestconsultants@gmail.com>
+From: CANADA-Be Best! <canada.bebestcosadasdas@gmail.com>
 Date: Mon, 26 Nov 2018, 13:25
 Subject: Re: Suggest universities for MS in Computer Science
-To: Thiruthuvaraj Rajasekhar <trsekhar.123@gmail.com>, BBC Helpdesk <helpdesk@bebestconsultants.com>, Karam Kaur <Karam@bebestconsultants.com>
+To: Ram Kumar <trram.12332@gmail.com>, BBC Helpdesk <helpdesk@bebestcsdassdants.com>, Karam Kaur <Karam@asdasdas.com>
 
 
 
-Dear Rajsekhar
+Dear Ram
 
 PFA  xcel of canada list of universities
 Kindly please confirm the universities
